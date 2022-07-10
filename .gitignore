@@ -361,3 +361,8 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# Ignore Rider cache files
+.rider/
+# Ignore .idea folder
+.idea/
